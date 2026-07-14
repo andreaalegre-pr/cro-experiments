@@ -1,4 +1,5 @@
-# Recomendación N1: Planes: Jerarquización de coberturas por categorías
+# Recomendación N1:
+Planes - Jerarquización de coberturas por categorías
 
 ## Cliente
 CHUBB MX Travel
