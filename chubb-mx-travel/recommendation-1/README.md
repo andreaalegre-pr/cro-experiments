@@ -13,6 +13,5 @@ Objetivo: Reducir la carga cognitiva durante la selección de planes y facilitar
 ## Cambios
 Las coberturas se agrupan en 3 grupos: “Atención médica”, “Viaje y equipaje” y “Protección adicional”.
 
-## Tecnologías
-- HTML
+## Script
 - JavaScript (incluye los estilos CSS)
