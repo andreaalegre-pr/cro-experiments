@@ -15,6 +15,7 @@ Mobile
 
 ## Cambios
 Se reduce la altura del carrusel principal para disminuir el espacio ocupado del banner.
+*El banner mostrado en el experimento es únicamente una representación visual. En caso de implementación, se recomienda diseñar una nueva versión del banner optimizada para dispositivos mobile.
 
 ## Tecnologías
 - JavaScript (incluye los estilos CSS)
