@@ -1,4 +1,4 @@
-# Recomendación 2:
+# Recomendación N2:
 Home: Optimización del ATF (Above the fold)
 
 ## Cliente
