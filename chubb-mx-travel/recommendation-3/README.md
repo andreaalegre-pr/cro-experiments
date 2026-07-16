@@ -1,4 +1,4 @@
-# Recomendación 3
+# Recomendación N3:
 Planes: Resumen de compra sticky en mobile.
 
 ## Cliente
