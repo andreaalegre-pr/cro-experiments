@@ -15,10 +15,12 @@ Mobile
 
 ## Cambios
 Mantener el resumen de la cotización fijo en la parte superior que muestre en una única línea información esencial como:
-Destino
-Fechas
-Número de viajeros
-Precio
+
+- Destino
+- Fechas
+- Número de viajeros
+- Precio
+  
 El resumen ocupará una altura reducida para minimizar el impacto sobre el área visible.
 
 ## Tecnologías
